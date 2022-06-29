@@ -7,3 +7,8 @@ f37ae8efaaf9   nginx     "/docker-entrypoint.…"   46 seconds ago   Exited (0) 
 8bcad8e5697f   nginx     "/docker-entrypoint.…"   48 seconds ago   Up 47 seconds               80/tcp    xenodochial_beaver
 
 1.2
+
+docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
